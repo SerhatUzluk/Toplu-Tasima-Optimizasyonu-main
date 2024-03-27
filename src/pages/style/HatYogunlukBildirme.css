@@ -1,0 +1,35 @@
+.notification-content{
+    background-color: rgb(248, 248, 244);
+    padding-bottom: 80px;
+}
+
+.notification-head-container{
+    background-color: #198754;
+    padding: 50px;
+    border-radius: 0 0 50px 50px;
+    color: white;
+    text-align: center;
+}
+
+.second-line-head{
+    font-size: 1.5em;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-weight: bold;
+}
+
+.second-line-head{
+    font-size: 1.5em;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.line-checkbox{
+    margin-left: 20px;    
+  }
+
+  .weekly-content{
+    margin-top: 35px;
+    font-size: 1em;
+}
